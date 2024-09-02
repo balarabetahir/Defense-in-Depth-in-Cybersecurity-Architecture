@@ -34,3 +34,6 @@ In the end, defense in depth is about buying time. Every additional layer gives 
 
 Conclusion
 Defense in depth is not just a best practice; it’s a necessity. In today’s threat landscape, where attacks are increasingly sophisticated and persistent, relying on a single line of defense is a recipe for disaster. By implementing multiple layers of security, organizations can better protect their assets, detect attacks sooner, and respond more effectively. It’s not about building the perfect wall; it’s about creating a fortress with layers of defense that work together to keep your data safe.
+
+
+[Cybersecurity as a Fortress BAT A01.pdf](https://github.com/user-attachments/files/16837905/Cybersecurity.as.a.Fortress.BAT.A01.pdf)
